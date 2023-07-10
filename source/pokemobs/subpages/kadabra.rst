@@ -15,6 +15,6 @@ Description
 ============
 | Kadabra is a psychic Pokémob.
 | Kadabra evolves into :ref:`alakazam`:
-|  -  After being traded.
+|  -  At Level 37.
 | 
 | Kadabra evolves from :ref:`abra`.
